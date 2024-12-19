@@ -37,5 +37,5 @@ fs.readFile("file.txt", "utf8", (err, data) => {
 	} else {
 		console.log("Данные из файла: бл", data);
 	}
-	// PullRequest
+	// PullRequestsadasd
 });

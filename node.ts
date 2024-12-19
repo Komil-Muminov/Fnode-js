@@ -35,6 +35,7 @@ fs.readFile("file.txt", "utf8", (err, data) => {
 	if (err) {
 		console.error("Ошибка чтения файла:", err);
 	} else {
-		console.log("Данные из файла:", data);
+		console.log("Данные из файла: бл", data);
 	}
+	// PullRequest
 });
